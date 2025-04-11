@@ -7,6 +7,9 @@ By integrating powerful visualization and classification techniques, this projec
 Tools & Techniques Used:
 
 Dataset: 2015 BRFSS (CDC)
+
 Models: Logistic Regression, Decision Trees, Quadratic Regression
+
 Metrics: Precision, Recall, F1-Score (up to 90.6%)
+
 Tools: Python, Pandas, Scikit-learn, Matplotlib
